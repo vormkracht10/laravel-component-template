@@ -19,3 +19,7 @@ In `resources/css` you can add your source CSS files.
 ### Views
 
 In `resources/views` you can add your Blade views.
+
+### Public
+
+In `public` folder, you can add files that needs to be published in the Laravel app when the package is installed.

@@ -1,0 +1,17 @@
+{
+    "name": "vormkracht10/component-template",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Vormkracht10\\ComponentTemplate\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mark van Eijk",
+            "email": "mark@vormkracht10.nl"
+        }
+    ],
+    "require": {}
+}

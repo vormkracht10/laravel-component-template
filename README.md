@@ -1,4 +1,4 @@
-# Laravel Blade Component Template
+# Laravel Component Template
 
 This repository template makes it easy to create a new Laravel Blade Component as an installable Composer package, ready to use in any Laravel project.
 

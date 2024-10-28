@@ -13,5 +13,6 @@
             "email": "mark@vormkracht10.nl"
         }
     ],
-    "require": {}
+    "require": {},
+    "minimum-stability": "dev"
 }

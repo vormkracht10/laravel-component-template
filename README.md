@@ -1,11 +1,11 @@
 # Laravel Component Template
 
-- [] Config file
-- [] Blade views (variants)
-- [] Build assets
-- [] Vite
-- [] Pest tests (PHP)
-- [] Jest tests (Javascript)
+- [ ] Config file
+- [ ] Blade views (variants)
+- [ ] Build assets
+- [ ] Vite
+- [ ] Pest tests (PHP)
+- [ ] Jest tests (Javascript)
 
 This repository template makes it easy to create a new Laravel Blade Component as an installable Composer package, ready to use in any Laravel project.
 
